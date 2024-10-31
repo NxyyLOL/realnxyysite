@@ -6,7 +6,7 @@ const LANYARD_OP = {
   HEARTBEAT: 3,
 };
 const EVENTS_TO_CALLBACK = ['INIT_STATE', 'PRESENCE_UPDATE'];
-const DISCORD_ID = '875096125588262914';
+const DISCORD_ID = '1294504099965829205';
 
 let spotifyBarTimer = null;
 
